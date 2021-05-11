@@ -11,7 +11,7 @@
 
 # 03 - Night Mode
 
-    <local name="SHOOTING_MODE_NIGHT" back="NIGHT" enable="true" more="true" order=" Serial Number "/>
+    <local name="SHOOTING_MODE_NIGHT" back="NIGHT" front="NIGHT" enable="true" more="true" order=" Serial Number " info="3"/>
 
 # 04 - Food Mode 
 
