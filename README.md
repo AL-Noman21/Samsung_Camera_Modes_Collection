@@ -1,4 +1,11 @@
-# Note : Please add order serial number in every feature .
+# Note :  Add theme into camera-feature.xml 
+
+Location - system/cameradata folder
+or
+system/system/cameradata folder
+
+Please add order serial number in every feature .
+
 
 
 # 01 - Selfie Focus .
