@@ -16,3 +16,22 @@
 # 04 - Food Mode .
 
     <local name="SHOOTING_MODE_FOOD" back="FOOD" enable="true" more="true" order=" Serial Number "/>
+
+# 05 - QR Code Scan .
+
+    <local name="SUPPORT_QR_CODE_DETECTION" value="true" />
+
+# 06 - 2X Zoom .
+
+    <local name="BACK_TELE_CAMERA_ID" value="50"/>
+
+# 07 - Floating Cemera Button .
+
+    <local name="SUPPORT_FLOATING_CAMERA_BUTTON" value="true" />
+
+08 - Camera Watermark .
+
+    <local name="SUPPORT_WATERMARK" value="true" />
+    <local name="SUPPORT_AUTO_WATERMARK" value="true" />
+    <local name="CAMERA_AUTO_WATERMARK_NUMBER_OF_CAMERAS" value=" Your Devices Camera Number " />
+    <local name="SUPPORT_CAMERA_AUTO_WATERMARK_MODEL_NAME" value="Your Device Name " />
