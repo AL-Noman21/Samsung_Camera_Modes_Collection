@@ -36,3 +36,16 @@
     <local name="CAMERA_AUTO_WATERMARK_NUMBER_OF_CAMERAS" value=" Your Devices Camera Number " />
     <local name="SUPPORT_CAMERA_AUTO_WATERMARK_MODEL_NAME" value="Your Device Name " />
 
+# 09 - Intelligent recognition .
+
+    <local name="SUPPORT_INTELLIGENT_GUIDE_TIPS" value="true" />
+    <local name="SUPPORT_INTELLIGENT_RECOGNITION_TIPS" value="true" />
+    <local name="SUPPORT_ADDITIONAL_SCENE_DOCUMENT_SCAN" value="true" />
+    <local name="SUPPORT_SMART_SCAN_MANUAL_CROP" value="true" />
+
+# 10 - Composition guide .
+
+    <local name="SUPPORT_COMPOSITION_GUIDE" value="true" />
+
+
+
