@@ -13,3 +13,6 @@
 
     <local name="SHOOTING_MODE_NIGHT" back="NIGHT" enable="true" more="true" order=" Serial Number "/>
 
+# 04 - Food Mode 
+
+    <local name="SHOOTING_MODE_FOOD" back="FOOD" enable="true" more="true" order=" Serial Number " info="1"/>
