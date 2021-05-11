@@ -15,4 +15,4 @@
 
 # 04 - Food Mode 
 
-    <local name="SHOOTING_MODE_FOOD" back="FOOD" enable="true" more="true" order=" Serial Number " info="1"/>
+    <local name="SHOOTING_MODE_FOOD" back="FOOD" enable="true" more="true" order=" Serial Number " info="4"/>
