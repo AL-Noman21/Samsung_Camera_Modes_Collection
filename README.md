@@ -52,7 +52,7 @@ Please add order serial number in every feature .
 
 # 10 - Composition guide.
 
-    <local name="SUPPORT_COMPOSITION_GUIDE" value="true" />
+    <local name="SUPPORT_COMPOSITION_GUIDE" value="true"/>
 
 # 11 - Support HEIF format picture.
    
