@@ -54,5 +54,7 @@ Please add order serial number in every feature .
 
     <local name="SUPPORT_COMPOSITION_GUIDE" value="true" />
 
-
+# 11 - Support HEIF format picture 
+   
+    <local name="SUPPORT_HEIF_FORMAT" value="true"/>
 
