@@ -58,3 +58,10 @@ Please add order serial number in every feature .
    
     <local name="SUPPORT_HEIF_FORMAT" value="true"/>
 
+# 12 - Ar Doodle 
+
+    <local name="SHOOTING_MODE_PRO" back="PRO" enable="true" more="true" order="Serial Number"/>
+
+# 13 - Pro Mode 
+    
+    <local name="SHOOTING_MODE_PRO" back="PRO" enable="true" more="true" order="Serial Number"/>
