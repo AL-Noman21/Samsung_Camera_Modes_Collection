@@ -78,4 +78,7 @@ Please add order serial number in every feature .
 
     <local name="SUPPORT_LIVE_BLUR" value="true" />
 
+# 17 - Video stabilistion 
 
+    <local name="SUPPORT_VIDEO_STABILISATION_MENU_IN_SETTING" value="true" />
+  
