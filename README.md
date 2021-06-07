@@ -74,3 +74,8 @@ Please add order serial number in every feature .
 
     <local name="SUPPORT_FLOATING_CAMERA_BUTTON" value="true"/>
 
+# 16 - Live blur 
+
+    <local name="SUPPORT_LIVE_BLUR" value="true" />
+
+
