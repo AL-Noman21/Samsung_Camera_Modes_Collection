@@ -69,3 +69,8 @@ Please add order serial number in every feature .
 # 14 - Tap to take picture
 
     <local name="SUPPORT_TAP_TO_TAKE_PICTURES" value="true" />
+
+# 15 - Floating camera button 
+
+    <local name="SUPPORT_FLOATING_CAMERA_BUTTON" value="true"/>
+
