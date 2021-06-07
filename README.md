@@ -60,7 +60,7 @@ Please add order serial number in every feature .
 
 # 12 - Ar Doodle 
 
-    <local name="SHOOTING_MODE_PRO" back="PRO" enable="true" more="true" order="Serial Number"/>
+   <local name="SHOOTING_MODE_AR_DOODLE" back="AR_DOODLE" enable="true" more="true" order="Serial Number"/>
 
 # 13 - Pro Mode 
     
