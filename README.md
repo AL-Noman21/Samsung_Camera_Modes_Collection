@@ -65,3 +65,7 @@ Please add order serial number in every feature .
 # 13 - Pro Mode 
     
     <local name="SHOOTING_MODE_PRO" back="PRO" enable="true" more="true" order="Serial Number"/>
+
+# 14 - Tap to take picture
+
+    <local name="SUPPORT_TAP_TO_TAKE_PICTURES" value="true" />
